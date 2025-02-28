@@ -1,0 +1,1 @@
+Building a Library Management System using JavaScript class-based object-oriented programming (OOP) skills.
